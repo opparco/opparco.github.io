@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anthropic-dungeon/static/css/main.c84c66c3.css",
-    "main.js": "/anthropic-dungeon/static/js/main.14ea8e4a.js",
+    "main.css": "/anthropic-dungeon/static/css/main.54c0d344.css",
+    "main.js": "/anthropic-dungeon/static/js/main.7b15ec76.js",
     "static/js/453.6c6792c9.chunk.js": "/anthropic-dungeon/static/js/453.6c6792c9.chunk.js",
     "index.html": "/anthropic-dungeon/index.html",
-    "main.c84c66c3.css.map": "/anthropic-dungeon/static/css/main.c84c66c3.css.map",
-    "main.14ea8e4a.js.map": "/anthropic-dungeon/static/js/main.14ea8e4a.js.map",
+    "main.54c0d344.css.map": "/anthropic-dungeon/static/css/main.54c0d344.css.map",
+    "main.7b15ec76.js.map": "/anthropic-dungeon/static/js/main.7b15ec76.js.map",
     "453.6c6792c9.chunk.js.map": "/anthropic-dungeon/static/js/453.6c6792c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c84c66c3.css",
-    "static/js/main.14ea8e4a.js"
+    "static/css/main.54c0d344.css",
+    "static/js/main.7b15ec76.js"
   ]
 }
